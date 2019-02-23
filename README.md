@@ -1,5 +1,7 @@
 Burlap Implementation of AI Safety Gridworlds
+
 Absent Supervisor
+
 Paper: https://arxiv.org/pdf/1711.09883.pdf
 
 by: Rui Sun
